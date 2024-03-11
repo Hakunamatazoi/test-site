@@ -21,7 +21,7 @@
     }
 
     body {
-     background: grey;
+
         
     }
 
