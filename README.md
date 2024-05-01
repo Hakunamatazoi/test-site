@@ -7,7 +7,6 @@
 </style>
 
 
-https://hackmd.io/O5BykextROeSIPHKWTfjHw
 
 [vers truc](truc)
 
@@ -16,11 +15,13 @@ https://hackmd.io/O5BykextROeSIPHKWTfjHw
 
 Lorem ipsum dolor sit amet, *consectetur* adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad **minim veniam**, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
-- Pomme
-- pandemie
-- dixit
+- Splendor Duel
+- Pandémie
+- Dixit
 - Caverna
 
+---
+---
 ---
 
 ![chien](https://picsum.photos/id/237/200/300)
@@ -37,6 +38,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation 
 
+---
+---
+---
 
 <h1>Horaires du lieu:</h1>
 
