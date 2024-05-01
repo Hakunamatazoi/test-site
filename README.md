@@ -41,9 +41,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <h1>Horaires du lieu:</h1>
 
 <ul>
-    <li>Mercredi 10-12</li>
-    <li>Jeudi 10-17</li>
-    <li></li>
+    <li>Mercredi 10h-12h</li>
+    <li>Jeudi 10h-17h</li>
+    <li>Samedi 10h-18h</li>
 </ul>
 <h1>Qu'est-ce que la ludothèque:</h1>
 
